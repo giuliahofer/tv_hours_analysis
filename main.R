@@ -8,3 +8,4 @@ tv_hours_tabulation <- gss_cat %>%
 
 write_csv(tv_hours_tabulation, here("TV_hours_by_marital.csv"))
 
+
